@@ -3,7 +3,7 @@
 👋 Hi there! I'm **Aaryan Vekariya**, a passionate and driven **developer** with a love for crafting impactful applications and exploring new technologies. I enjoy solving real-world problems, constantly learning, and working on challenging projects.  
 
 ✨ **What defines me?**  
-- 🌱 Currently growing my expertise in **AI and Machine Learning**.  
+- 🌱 Currently growing my expertise in **MERN Stack DEVLOPER**.  
 - 💻 Skilled in **C**, **Python**, **HTML**, and **CSS**, with a knack for web development.  
 - ⚡ Fascinated by database systems, proficient in **SQL (MySQL, SQLite)** and **NoSQL (MongoDB)**.  
 - 🚀 Committed to delivering efficient, scalable, and user-friendly applications.  
