@@ -29,6 +29,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aaryanvekariya&theme=dark&hide_border=false)  
 
 <hr style="border: 2px solid #FA003F;" />
+<br>
 
 ![Student by Passion](https://img.shields.io/badge/Professional%20Student%20-%E2%9C%94-skyblue?style=for-the-badge&logo=github&logoColor=white) 
 
